@@ -1,6 +1,5 @@
 import { LexRuntimeV2Client } from "@aws-sdk/client-lex-runtime-v2";
 
-// Replace these with your actual AWS credentials
 const awsConfig = {
   region: "us-east-1", 
   credentials: {
