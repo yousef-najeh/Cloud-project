@@ -102,10 +102,5 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ## 👥 Authors
 
-- Your Name - Initial work
-
-## 🙏 Acknowledgments
-
-- AWS Amplify team for the amazing tools
-- React team for the fantastic framework
-- Vite team for the blazing fast build tool
+- Yousef Samara
+- Hasan Hayat
