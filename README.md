@@ -35,8 +35,8 @@ Before you begin, ensure you have the following installed:
    ``` bash
      git clone https://github.com/yousef-najeh/Cloud-project.git
 
-   ``` cd clode-prject
-  
+     cd clode-prject
+   ```
 
 2. Install dependencies:
    ```bash
@@ -97,9 +97,6 @@ VITE_AWS_USER_POOL_WEB_CLIENT_ID=your-client-id
 4. Push to the branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
 
-## 📝 License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
 
 ## 👥 Authors
 
