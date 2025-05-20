@@ -32,10 +32,11 @@ Before you begin, ensure you have the following installed:
 ## 🚀 Getting Started
 
 1. Clone the repository:
-   ```bash
-   git clone [your-repository-url]
-   cd clode-prject
-   ```
+   ``` bash
+     git clone https://github.com/yousef-najeh/Cloud-project.git
+
+   ``` cd clode-prject
+  
 
 2. Install dependencies:
    ```bash
