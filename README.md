@@ -9,6 +9,7 @@ A modern web application built with React and AWS services, featuring real-time 
 - Modern React-based UI
 - Responsive design
 - AWS Amplify integration
+- AWS Dynamodb
 
 ## 🛠️ Tech Stack
 
