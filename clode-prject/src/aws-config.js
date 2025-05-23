@@ -3,8 +3,8 @@ import { LexRuntimeV2Client, RecognizeTextCommand } from "@aws-sdk/client-lex-ru
 const awsConfig = {
   region: "us-east-1", 
   credentials: {
-    accessKeyId: "AKIAUULKJGIMAFUGDIWR",
-    secretAccessKey: "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"
+    accessKeyId: import.meta.env.VITE_AWS_ACCESS_KEY_ID,
+  secretAccessKey: import.meta.env.VITE_AWS_SECRET_ACCESS_KEY
   }
 };
 
