@@ -1,0 +1,50 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-testingg-dev-43519-authRole",
+      "UnauthRoleArn": "arn:aws:iam::318587351576:role/amplify-testingg-dev-43519-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::318587351576:role/amplify-testingg-dev-43519-authRole",
+      "Region": "us-east-1",
+      "DeploymentBucketName": "amplify-testingg-dev-43519-deployment",
+      "UnauthRoleName": "amplify-testingg-dev-43519-unauthRole",
+      "StackName": "amplify-testingg-dev-43519",
+      "StackId": "arn:aws:cloudformation:us-east-1:318587351576:stack/amplify-testingg-dev-43519/56e0ca50-3810-11f0-bc56-0e7cb26ba367",
+      "AmplifyAppId": "d1jmr02a5h46uq"
+    },
+    "categories": {
+      "hosting": {
+        "amplifyhosting": {
+          "appId": "d1jmr02a5h46uq",
+          "type": "manual"
+        }
+      },
+      "auth": {
+        "testingg56f3fef3": {}
+      }
+    }
+  },
+  "testingtwo": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-testingg-testingtwo-56ec5-authRole",
+      "UnauthRoleArn": "arn:aws:iam::318587351576:role/amplify-testingg-testingtwo-56ec5-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::318587351576:role/amplify-testingg-testingtwo-56ec5-authRole",
+      "Region": "us-east-1",
+      "DeploymentBucketName": "amplify-testingg-testingtwo-56ec5-deployment",
+      "UnauthRoleName": "amplify-testingg-testingtwo-56ec5-unauthRole",
+      "StackName": "amplify-testingg-testingtwo-56ec5",
+      "StackId": "arn:aws:cloudformation:us-east-1:318587351576:stack/amplify-testingg-testingtwo-56ec5/db2f6370-3815-11f0-adee-0affef43ad85",
+      "AmplifyAppId": "d1jmr02a5h46uq"
+    },
+    "categories": {
+      "auth": {
+        "testingg56f3fef3": {}
+      },
+      "hosting": {
+        "amplifyhosting": {
+          "appId": "d1jmr02a5h46uq",
+          "type": "manual"
+        }
+      }
+    }
+  }
+}

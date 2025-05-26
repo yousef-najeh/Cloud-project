@@ -5,7 +5,7 @@
   "type": "module",
   "scripts": {
     "dev": "vite",
-    "build": "vite build",
+    "build": "vite build && copy aws-exports.js dist\\aws-exports.js",
     "lint": "eslint .",
     "preview": "vite preview"
   },
